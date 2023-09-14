@@ -16,7 +16,7 @@ newArr.forEach(element => {
                     { 
                         { 
     //  element.style.list-style = 'disc'
-    element.style.color = 'lime';
+    element.style.color = '#ff321f';
     // element.style.display = 'flex'
     // element.style.justifyContent = 'center'
     element.style.listStyle = 'armenian'
